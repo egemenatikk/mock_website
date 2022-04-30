@@ -1,0 +1,9 @@
+.TagListOuterDiv{
+    background-color: white;
+    margin: 25px 0px 20px 190px;
+    padding: 5px;
+    width: 1100px;
+    height: auto;
+    overflow-x: auto;
+    word-wrap:break-word;
+}

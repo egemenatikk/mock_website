@@ -1,0 +1,24 @@
+.UserProfileOuterDiv{
+    background-color: white;
+    margin: 25px 0px 0px 190px;
+    padding: 5px;
+    width: 1100px;
+    height: 180px;
+    border-radius: 4px;
+    box-shadow: 0 2px #666;
+}
+
+.UserProfileInnerDivs{
+    float: left;
+    margin: 10px 10px 0px 10px;
+    width: 335px;
+    font-weight: bold ;
+}
+
+.UserProfileEmail{
+    margin: 10px 0px 0px 0px;
+}
+
+.UserProfileFirstLine{
+    margin: 0px 0px 3px 0px;
+}

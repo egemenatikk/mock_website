@@ -1,0 +1,27 @@
+.UserCardOuterDiv{
+    background-color:white;
+    border: none;
+    display: inline-block;
+    width: 500px;
+    height: 150px;
+    margin: 10px 45px 20px 25px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px #999;
+    
+}
+
+.userCardPicture{
+    margin: 10px;
+    float: left; 
+}
+
+.userCardIDTitle{
+    margin:10px;
+}
+
+.userCardTitle{
+    margin: 3px 0px 0px 0px;
+    font-weight: bold;
+    font-size: 20px;
+}

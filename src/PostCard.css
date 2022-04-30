@@ -1,0 +1,60 @@
+.PostCardOuterDiv{
+    background-color: white;
+    margin: 10px;
+    height: 320px;
+    width: 530px;
+    float:left;
+    border-radius: 4px;
+
+}
+
+.PostCardFirstDiv{
+    width: 500px;
+    height: 70px;
+    background-color: white;
+    margin: 5px 0px 0px 10px;
+}
+
+.PostCardRoundedImage{
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+    margin: 5px 10px 5px 0px;
+}
+
+.PostCardImageDiv{
+    background-color:white;
+    float: left;
+    margin: 0px 20px 0px 10px;
+}
+
+.PostCardShrinkedImage{
+    height: 230px;
+    width: 195px;
+}
+
+.PostCardDateText{
+    margin: 50px 10px 20px 10px;
+    background-color: white;
+}
+
+.PostCardTags{
+    background-color: rgb(154, 46, 255);
+    margin:0px 10px 15px 0px;
+    border-radius: 7px;
+    float:left;
+    padding: 4px 10px ;
+    width: auto;
+    height: 30px;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+
+}
+
+.PostCardLike{
+    margin:50px 100px;
+    font-weight: bold;
+}
+
