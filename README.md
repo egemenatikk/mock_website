@@ -1,4 +1,4 @@
-## This project uses a dummy api from [website](https://dummyapi.io/docs).
+## This project uses a dummy api from [this website](https://dummyapi.io/docs).
 
 I created a free account on that website, then by using my app-id, I fetch data from there and by using these data, I prepared this mockup website.
 
