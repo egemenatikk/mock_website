@@ -8,3 +8,5 @@ In App.js file, you can change userId, postId and tagWord values to get differen
 
 Also, in App.js file, you need to enter your own app-id to the 7 necessary fields, they are indicated by comments.
 
+Then, just write npm start to terminal and program will work.
+
